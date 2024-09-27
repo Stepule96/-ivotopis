@@ -4,6 +4,7 @@ body{
     color: black;
     font-size: 18px;
     margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h1{
@@ -24,7 +25,9 @@ h2{
 h3{
     color:#2F4F4F;
     font-family: "Courier Prime", monospace;
-    background-color: #F0FFFF;
+    margin-top: 0;
+
+
     
 }
 
@@ -66,30 +69,42 @@ a{
 .kontakt{
     text-align: left;
     color:black;
-    padding: 0;
     line-height: 2;
-    margin: 80px;
+    background-color: #F0FFFF;
+    padding: 30px 30px 30px 70px;
+    margin: 0;
+
 }
    
 .prace{
-    padding-top: 150px;
-    margin-left: 50px;
+    padding: 180px 30px 30px 70px;
+    margin: 0;
+    background-color: #F0FFFF;
+
 }
 
 .vzdelani{
-    padding-top: 10px;
-    margin-left: 50px;
+    
+    line-height: 1,5;
+    background-color: #F0FFFF;
+    padding: 30px 30px 30px 70px;
+    margin: 0;
 }
 
-.jazyky,
-.dovednosti{
-    padding-top: 10px;
-    margin-left: 50px;
+.znalosti{
+    padding: 30px 30px 30px 70px;
+    margin: 0;
+    background-color: #F0FFFF;
 }
 
-.dovednosti{
-    margin-bottom: 50px;
+.zamestnavatel,
+.skola{
+    padding-left: 50px;
 }
+
+.text{padding-left: 20px;}
+
+
 
 
 
