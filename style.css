@@ -51,7 +51,7 @@ footer{
     overflow: auto;
     float: left; 
     margin-right: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 0px;
     margin-left: 50px;
     margin-top: 0;
 }
@@ -71,13 +71,13 @@ a{
     color:black;
     line-height: 2;
     background-color: #F0FFFF;
-    padding: 30px 30px 30px 70px;
+    padding: 30px 30px 30px 100px;
     margin: 0;
 
 }
    
 .prace{
-    padding: 180px 30px 30px 70px;
+    padding: 160px 30px 30px 100px;
     margin: 0;
     background-color: #F0FFFF;
 
@@ -87,12 +87,12 @@ a{
     
     line-height: 1,5;
     background-color: #F0FFFF;
-    padding: 30px 30px 30px 70px;
+    padding: 30px 30px 30px 100px;
     margin: 0;
 }
 
 .znalosti{
-    padding: 30px 30px 30px 70px;
+    padding: 30px 30px 30px 100px;
     margin: 0;
     background-color: #F0FFFF;
 }
